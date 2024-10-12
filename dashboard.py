@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 # Configuración de la página de Streamlit
 st.set_page_config(page_title='Follower Comparative Analysis', layout='wide')
 
-# Cambiar el color de fondo
+## Cambiar el color de fondo
 st.markdown(
     """
     <style>
